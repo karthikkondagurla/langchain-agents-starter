@@ -104,10 +104,6 @@ Contributions are welcome! Feel free to:
 - Open issues for bugs or feature requests
 - Submit PRs for new tools, models, or examples
 
-## License
-
-MIT License. See LICENSE file if included, or update this section to your preferred license.
-
 ## Acknowledgements
 
 - LangChain
